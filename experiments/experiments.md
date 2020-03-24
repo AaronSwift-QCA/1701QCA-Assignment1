@@ -9,7 +9,7 @@ Using a Light Sensor and Analog Inputs
 
 #### Photo of completed project ####
 
-![Image](light sensor.jfif)
+![Image](lightsensor.jfif)
 
 Completed Light Sensor
 
@@ -56,7 +56,7 @@ Using the accelerometer to control motor speed
 
 #### Photo of completed project ####
 
-![Image](accellorometer.jfif)
+![Image](accelorometer.jfif)
 
 Completed Accelerometer
 
