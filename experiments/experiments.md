@@ -13,7 +13,7 @@ Using a Light Sensor and Analog Inputs
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](lightsensor.jfif)
 
 (Insert a caption here)
 
@@ -30,7 +30,7 @@ Dimming an LED using a potentiometer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](potentiometer.jfif)
 
 (Insert a caption here)
 
@@ -46,7 +46,7 @@ Using a transistor to drive a motor
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](trensistor.jfif)
 
 (Insert a caption here)
 
@@ -63,7 +63,7 @@ Using the accelerometer to control motor speed
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](accellerometer.jfif)
 
 (Insert a caption here)
 
@@ -80,7 +80,7 @@ Setting the tone with a piezo buzzer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](buzzer.jfif)
 
 (Insert a caption here)
 
