@@ -14,7 +14,7 @@ Paper Keyboard
 
 https://drive.google.com/file/d/1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj/view
 
-![Image](paperkeyboard.jpeg)
+![Image](paperkeyboard.jpg)
 
 This project is related to mine because it is the same concept and uses the same technology but on a bigger scale.
 
