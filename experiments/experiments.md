@@ -2,20 +2,16 @@
 
 *Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
 ### Experiment name ###
 
 Using a Light Sensor and Analog Inputs
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](lightsensor.jfif)
+![Image](light sensor.jfif)
 
-(Insert a caption here)
+Completed Light Sensor
 
 #### Reflection ####
 
@@ -28,11 +24,10 @@ This experiment could be the basis of a real world application such as automatic
 Dimming an LED using a potentiometer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](potentiometer.jfif)
 
-(Insert a caption here)
+Completed Potentiometer
 
 #### Reflection ####
 
@@ -44,11 +39,10 @@ This experiment could be the basis of a real world application such as dimming t
 Using a transistor to drive a motor
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](trensistor.jfif)
+![Image](transistor.jfif)
 
-(Insert a caption here)
+Completed Transistor
 
 #### Reflection ####
 
@@ -61,11 +55,10 @@ This experiment could be the basis of a real world application such as ceiling f
 Using the accelerometer to control motor speed
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](accellerometer.jfif)
+![Image](accellorometer.jfif)
 
-(Insert a caption here)
+Completed Accelerometer
 
 #### Reflection ####
 
@@ -78,11 +71,10 @@ This experiment could be the basis of a real world application such as in drones
 Setting the tone with a piezo buzzer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](buzzer.jfif)
 
-(Insert a caption here)
+Completed Buzzer
 
 #### Reflection ####
 
