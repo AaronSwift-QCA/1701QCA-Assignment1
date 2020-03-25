@@ -81,12 +81,12 @@ The banana keyboard (apple keyboard in this case) is a muscial and entertainment
 
 ### Showcase image ###
 
-![Image](p1.JPEG)
+![Image](p1.jpg)
 
 ### Additional view ###
 
 
-![Image](p2.JPEG)
+![Image](p2.jpg)
 
 ### Reflection ###
 
