@@ -25,11 +25,11 @@ This project is related to mine because it is the same concept and uses the same
 ## Process documentation
 Connecting the first aligator clip to the ground.
 
-![Image](m1.jpg)
+![Image](m2.jpg)
 
 Connecting the the second aligator clip to 0.
 
-![Image](m2.jpg)
+![Image](m1.jpg)
 
 Connecting the first and second clips to the earphones (ground at the base and 0 at the tip).
 
@@ -45,7 +45,7 @@ Connecting the last aligator clip to 1.
 
 Connecting the apples.
 
-![Image](m5.jpg.png)
+![Image](m5.jpg)
 
 ## Project outcome ##
 
