@@ -57,7 +57,7 @@ This project is related to mine because it is the same concept and uses the same
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flowchart.JPG)
 
 ## Process documentation
 
@@ -69,39 +69,25 @@ This project is related to mine because it is the same concept and uses the same
 
 ![Image](missingimage.png)
 
-*Include screenshots of the code you have used.*
+
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
-
+Banana Keyboard
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The banana keyboard (apple keyboard in this case) is a muscial and entertainment project that uses the microbits functionality to make sounds with fruit. When a person touches or tries to pick up one of the fruits connected to the microbit it will make a sound. In an effort to surprise the users, the microbit is hidden to the user. This will add to the entertinment side both for the unknowing user and other people watching. 
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](p1.JPEG)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](p2.JPEG)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
-
-
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+Overall the project went smoothly and was easy to complete. The hardest part was finding aligator clips and other parts which were hindered by the COVID-19 effects on the economy and the shut down of all non essential activities. Along with that I found it hard to justify going into the workshops for fear of some how catching the virus. I found that this project gave me a greater understanding of the microbit and its processes. Something I found interesting was the incorporation of headphones into the project to output the sounds. It makes me curious about what other non microbit parts could be used in future projects. 
